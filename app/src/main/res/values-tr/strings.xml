@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="business_solutions">İş Çözümleri</string>
+    <string name="main_text">Şirketinize veya kişisel çıkarlarınıza yönelik her türlü iş çözümü sunuyoruz. Ayrıca dijital pazarlamaya geçiş konusunda uzmanlarımızdan yardım isteyebilirsiniz.</string>
+    <string name="next">Sonraki</string>
+    <string name="skip">Atla</string>
+</resources>
